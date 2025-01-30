@@ -11,5 +11,8 @@ During my previous internship experience with graph databases, I was exposed to 
 
 Graph databases like Neo4j excel at representing both instance data and organizing principles in a unified structure, enabling direct relationship traversal through built-in algorithms like node similarity and k-nearest neighbors. When determining transaction legitimacy, the system can quickly evaluate relationship strengths between marketplaces based on transaction patterns, user behaviors, and platform characteristics. This capability not only enhances artificial intelligence applications by providing contextual relationship understanding, but also offers intuitive visualizations that make it easier for teams and stakeholders to present and understand the data.
 
-### Ethan Zheng - comments
-I have also gotten the chance to work with knowledge graphs and graph databases in a previous internship and I agree with Chris' comments on the benefits and applications of them within engineering and ML. 
+### Ethan Zheng's (ez2146) Comment
+*I have also gotten the chance to work with knowledge graphs and graph databases in a previous internship and I agree with Chris' comments on the benefits and applications of them within engineering and ML.*
+
+### Jake Chang's (jakechang1284) Comment
+*Graph databases also shine in fraud detection, where the ability to traverse relationships quickly helps identify suspicious patterns that would be difficult to catch with SQL-based queries. By leveraging graph embeddings and centrality measures, companies can gain deeper insights into network structures, making real-time decision-making more efficient. - Jake Chang*
